@@ -10,4 +10,4 @@ https://youtu.be/wpgQY5f2hOo
 presentation (see project 1)
 https://www.slideshare.net/AmrRashed3/machine-learning-workshop-using-orange-datamining-framework
 codes :
-https://github.com/amrrashed/Fault-Detection-Dataset-in-Photovoltaic-Farms/new/main?readme=1
+https://github.com/amrrashed/Fault-Detection-Dataset-in-Photovoltaic-Farms
